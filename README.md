@@ -2,6 +2,6 @@
 
 # 100DaysOfCode
 
-## 07/20 Projects
+## 08/20 Projects
 
 React app
